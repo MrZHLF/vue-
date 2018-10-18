@@ -47,7 +47,7 @@
 ### 数据接口
 
 1.接口图片展示
-![avatar](./static/999.png)
+![avatar](./static/999.gif)
 2.接口说明，
 所有的接口文档已经放在static目录中，pdd_api存在接口，mysql文件存放数据，接口需要自己下载到本都重新初始化，mysql数据需要自己用数据库直接引入就可以使用、
 
@@ -67,6 +67,6 @@ import '@/common/css/style.css' 字体图标
 	   I  Your application is running here: http://localhost:8080
 
 ### 成果展示
-![avatar](./static/123.png)
-![avatar](./static/456.png)
-![avatar](./static/789.png)
+![avatar](./static/123.gif)
+![avatar](./static/456.gif)
+![avatar](./static/789.gif)
