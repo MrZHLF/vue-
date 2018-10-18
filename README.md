@@ -69,4 +69,4 @@ import '@/common/css/style.css' 字体图标
 ### 成果展示
 ![avatar](./static/123.gif)
 ![avatar](./static/456.gif)
-![avatar](./static/789.gif)
+![avatar](./static/678.gif)
