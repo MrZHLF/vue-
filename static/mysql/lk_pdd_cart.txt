@@ -1,0 +1,5 @@
+"goods_id"	"goods_name"	"thumb_url"	"price"	"buy_count"	"is_pay"
+"9892193"	"可折叠床上书桌笔记本电脑桌吃饭桌学生写字桌儿童餐桌小桌子"	"http://t00img.yangkeduo.com/t11img/images/2018-04-24/9a4131f9771c3ae31963430b948cc70f.jpeg"	"1653.00"	"3"	"0"
+"50783155"	"【南极人】肤色加绒加厚打底裤女光腿神器秋冬外穿保暖裤子连体裤"	"http://t00img.yangkeduo.com/t01img/images/2018-06-01/4d0c2a4168c2c8ea2053b1ba44e342cf.jpeg"	"1912.00"	"2"	"0"
+"52596197"	"格蒙蚕丝嫁接睫毛膏浓密拉长 防水卷翘加长不晕染眼线笔套装正品"	"http://omsproductionimg.yangkeduo.com/images/2017-12-11/026da66a401cf3bc63afa3082cff0c3c.jpeg"	"780.00"	"1"	"0"
+"53360299"	"【足足5-10斤】薰衣草香洗衣液护衣护色低泡易洗手洗机洗浓缩留香"	"http://t00img.yangkeduo.com/goods/images/2018-09-11/381e0fd2ecb3d40297801b46a553c94f.jpeg"	"1190.00"	"1"	"0"

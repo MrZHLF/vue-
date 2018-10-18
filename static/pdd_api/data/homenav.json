@@ -1,0 +1,20 @@
+{
+  "data": [
+    {"iconurl": "http://127.0.0.1:3000/images/home/nav_icon01.png", "icontitle": "限时秒杀"},
+    {"iconurl": "http://127.0.0.1:3000/images/home/nav_icon02.png", "icontitle": "每日清仓"},
+    {"iconurl": "http://127.0.0.1:3000/images/home/nav_icon03.png", "icontitle": "品牌馆"},
+    {"iconurl": "http://127.0.0.1:3000/images/home/nav_icon04.png", "icontitle": "天天领红包"},
+    {"iconurl": "http://127.0.0.1:3000/images/home/nav_icon05.png", "icontitle": "9块9特卖"},
+    {"iconurl": "http://127.0.0.1:3000/images/home/nav_icon06.gif", "icontitle": "充值中心"},
+    {"iconurl": "http://127.0.0.1:3000/images/home/nav_icon07.png", "icontitle": "秋冬上新"},
+    {"iconurl": "http://127.0.0.1:3000/images/home/nav_icon08.png", "icontitle": "现金签到"},
+    {"iconurl": "http://127.0.0.1:3000/images/home/nav_icon09.png", "icontitle": "食品超市"},
+    {"iconurl": "http://127.0.0.1:3000/images/home/nav_icon10.png", "icontitle": "电器城"},
+    {"iconurl": "http://127.0.0.1:3000/images/home/nav_icon11.png", "icontitle": "助力享免单"},
+    {"iconurl": "http://127.0.0.1:3000/images/home/nav_icon12.png", "icontitle": "天天半价购"},
+    {"iconurl": "http://127.0.0.1:3000/images/home/nav_icon13.png", "icontitle": "1分抽大奖"},
+    {"iconurl": "http://127.0.0.1:3000/images/home/nav_icon14.png", "icontitle": "电器城"},
+    {"iconurl": "http://127.0.0.1:3000/images/home/nav_icon15.png", "icontitle": "海淘"},
+    {"iconurl": "http://127.0.0.1:3000/images/home/nav_icon16.png", "icontitle": "帮帮免费团"}
+  ]
+}

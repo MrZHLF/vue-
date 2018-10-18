@@ -1,0 +1,13 @@
+{
+  "data": [
+    {"imgurl": "http://127.0.0.1:3000/images/home/s1.png", "detail": "http://mobile.yangkeduo.com/subject.html?subject_id=6153"},
+    {"imgurl": "http://127.0.0.1:3000/images/home/s2.png", "detail": "http://mobile.yangkeduo.com/promotion_op.html?type=12&id=228"},
+    {"imgurl": "http://127.0.0.1:3000/images/home/s3.png", "detail": "http://mobile.yangkeduo.com/subject.html?subject_id=6242"},
+    {"imgurl": "http://127.0.0.1:3000/images/home/s4.png", "detail": "http://mobile.yangkeduo.com/subject.html?subject_id=6153"},
+    {"imgurl": "http://127.0.0.1:3000/images/home/s5.png", "detail": "http://mobile.yangkeduo.com/subject.html?subject_id=6230"},
+    {"imgurl": "http://127.0.0.1:3000/images/home/s6.png", "detail": "http://mobile.yangkeduo.com/promotion_op.html?type=12&id=190"},
+    {"imgurl": "http://127.0.0.1:3000/images/home/s7.png", "detail": "http://mobile.yangkeduo.com/promotion_op.html?type=12&id=229"},
+    {"imgurl": "http://127.0.0.1:3000/images/home/s8.png", "detail": "http://mobile.yangkeduo.com/subject.html?subject_id=6153"},
+    {"imgurl": "http://127.0.0.1:3000/images/home/s9.png", "detail": "http://mobile.yangkeduo.com/subject.html?subject_id=6242"}
+  ]
+}

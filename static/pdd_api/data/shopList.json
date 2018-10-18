@@ -1,0 +1,604 @@
+{
+  "goods_list": [{
+    "goods_id": 582274887,
+    "goods_name": "香朵儿运动服套装女2018春秋新款学生韩版宽松时尚休闲大码两件套",
+    "short_name": "香朵儿运动服套装女2018春秋新款学生韩版宽松时尚休闲大码两件套",
+    "image_url": "http://t00img.yangkeduo.com/goods/images/2018-08-17/a3d1f116c3a4bdbf3bd95c52697d12e9.jpeg",
+    "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-17/425b8a40a0e2562094492081fe2e3e81.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-17/9f884fac2a889c9ff1e07c699b316d71.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 2990,
+      "customer_num": 2
+    },
+    "cnt": 60308,
+    "market_price": 12800,
+    "normal_price": 3090,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+    "region_limit": 0,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 0,
+    "sales_tip": "已拼6万件",
+    "bubble": [{"avatar":"http://t20img.yangkeduo.com/a/7bb7677358604fcc75c86f37a2a567cfa1107684-1534773680?imageMogr2/thumbnail/100x","group_order_id":"496405539390250450"},{"avatar":"http://t20img.yangkeduo.com/a/f44b185c296fd8ef9302a2c70f2033c4133c85df-1532393091?imageMogr2/thumbnail/100x","group_order_id":"496197250253990604"}]
+  }, {
+    "goods_id": 2321019976,
+    "goods_name": "梵雪妮大码女装2018秋装新款中长款七分袖风衣修身气质外套连衣裙",
+    "short_name": "梵雪妮大码女装2018秋装新款中长款七分袖风衣修身气质外套连衣裙",
+    "image_url": "http://t00img.yangkeduo.com/goods/images/2018-07-22/963bff2acbf32ee5d5dfde108beadf5e.jpeg",
+    "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-19/3516012d19169e1f9d6183581ea5afb2.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-19/ec3dee5adb8481fc9540615e14d214fc.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 6990,
+      "customer_num": 2
+    },
+    "cnt": 7549,
+    "market_price": 16900,
+    "normal_price": 8990,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+    "region_limit": 0,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 1,
+    "sales_tip": "已拼7549件",
+    "bubble": [{"avatar":"http://t20img.yangkeduo.com/a/50b9ea9dd54630e62653ef349f2ec869b8617351-1534720465?imageMogr2/thumbnail/100x","group_order_id":"496022696428291152"},{"avatar":"http://t20img.yangkeduo.com/a/16a92507b154b6368b422c86adcf37a83efffd01-1528721274?imageMogr2/thumbnail/100x","group_order_id":"496040996700870139"}]
+  }, {
+    "goods_id": 1140301418,
+    "goods_name": "加大码前扣文胸妈妈背心款超薄舒适老人内衣蕾丝提花聚拢调整印花",
+    "short_name": "加大码前扣文胸妈妈背心款超薄舒适老人内衣蕾丝提花聚拢调整印花",
+    "image_url": "http://t00img.yangkeduo.com/goods/images/2018-08-01/284c25f663d9a43326b221a539eb713e.jpeg",
+    "thumb_url": "http://t00img.yangkeduo.com/t11img/images/2018-06-14/00c7cf71fdf97d7e03e11222426d6822.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/t10img/images/2018-06-14/d8e1df7631db2e1c912aeaa7b786a7d0.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 855,
+      "customer_num": 2
+    },
+    "cnt": 60171,
+    "market_price": 7100,
+    "normal_price": 1080,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+    "region_limit": 0,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 0,
+    "sales_tip": "已拼6万件",
+    "bubble": [{"avatar":"http://t21img.yangkeduo.com/a/ea2db3990785af5beab5df09e206e182349c5dc9-1522650996?imageMogr2/thumbnail/100x","group_order_id":"496162906768110251"},{"avatar":"http://t20img.yangkeduo.com/a/4d22102fb9354aa7b17a952f3193f8525e01756f-1535073515?imageMogr2/thumbnail/100x","group_order_id":"496068259677250797"}]
+  }, {
+    "goods_id": 1897998714,
+    "goods_name": "儿童扭扭车带音乐四轮滑行车玩具车可坐人1-3岁宝宝溜溜车摇摆车",
+    "short_name": "儿童扭扭车带音乐四轮滑行车玩具车可坐人1-3岁宝宝溜溜车摇摆车",
+    "image_url": "http://t00img.yangkeduo.com/goods/images/2018-07-19/d164dfe97f3c6219e56c3f99fbdb7894.jpeg",
+    "thumb_url": "http://t00img.yangkeduo.com/t04img/images/2018-06-28/3acb15a7ce9cb93e17b793617267f7a1.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/t11img/images/2018-06-28/cdc2e6a25f36b105e7ccad428387a7ee.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 2990,
+      "customer_num": 2
+    },
+    "cnt": 2920,
+    "market_price": 9800,
+    "normal_price": 3290,
+    "country": "",
+    "allowed_region": "[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 30, 31, 32]",
+    "region_limit": 1,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 0,
+    "sales_tip": "已拼2920件",
+    "bubble": [{"avatar":"http://t20img.yangkeduo.com/a/b66344f0d0c15210e3210786c75646454afa57cc-1532764618?imageMogr2/thumbnail/100x","group_order_id":"496140657296372585"},{"avatar":"http://t20img.yangkeduo.com/a/2d1f9cc4c78b3ebca317c48e09db1d3649e97712-1534829419?imageMogr2/thumbnail/100x","group_order_id":"496046024623031900"}]
+  }, {
+    "goods_id": 1001749,
+    "goods_name": "【百万家庭见证好品质】心逸竹浆本色抽纸巾餐巾纸家用面巾纸批发",
+    "short_name": "【百万家庭见证好品质】心逸竹浆本色抽纸巾餐巾纸家用面巾纸批发",
+    "image_url": "http://t00img.yangkeduo.com/t04img/images/2018-07-02/e073fe611438bd1f256d8635e26de0ab.jpeg",
+    "thumb_url": "http://t00img.yangkeduo.com/t02img/images/2018-05-29/c58805eaa48d4f00db9d6183e3117718.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/t04img/images/2018-05-29/2c9909927477ac6befd250e3aa845637.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 990,
+      "customer_num": 2
+    },
+    "cnt": 2196135,
+    "market_price": 9990,
+    "normal_price": 1800,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 22, 23, 24, 25, 26, 27, 30, 31, 32]",
+    "region_limit": 1,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 1,
+    "sales_tip": "已拼219.6万件",
+    "bubble": [{"avatar":"http://t20img.yangkeduo.com/a/ab844cc824f72681e409186f84925875acdc293e-1529289376?imageMogr2/thumbnail/100x","group_order_id":"496093202678531873"},{"avatar":"http://t20img.yangkeduo.com/a/3e7749836a9444e8c74e636395707a0a9e8cb660-1528724121?imageMogr2/thumbnail/100x","group_order_id":"496150913680430015"}]
+  }, {
+    "goods_id": 602772440,
+    "goods_name": "含棉贝路雪运动服套装女春秋2018新款学生韩版宽松大码卫衣两件套",
+    "short_name": "含棉贝路雪运动服套装女春秋2018新款学生韩版宽松大码卫衣两件套",
+    "image_url": "http://t07img.yangkeduo.com/images/2018-03-12/ba58dd68d4614c0bf06c6347c02bfe3d.jpeg",
+    "thumb_url": "http://t03img.yangkeduo.com/images/2018-04-08/b493a724cb17bf149259143833d865f6.jpeg",
+    "hd_thumb_url": "http://t03img.yangkeduo.com/images/2018-04-08/fe0ecfa7deccc5c3c7e7574089caac02.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 4890,
+      "customer_num": 2
+    },
+    "cnt": 103411,
+    "market_price": 18800,
+    "normal_price": 5590,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 30, 31, 32]",
+    "region_limit": 1,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 0,
+    "sales_tip": "已拼10.3万件",
+    "bubble": [{"avatar":"http://t20img.yangkeduo.com/a/388a0b3928ba9ff235057e5efead4631d070b016-1528945093?imageMogr2/thumbnail/100x","group_order_id":"496605400597252999"}]
+  }, {
+    "goods_id": 12883854,
+    "goods_name": "【1-3个装可选】保鲜盒陶瓷保鲜碗微波炉可用饭盒提锅冰箱储物盒",
+    "short_name": "【1-3个装可选】保鲜盒陶瓷保鲜碗微波炉可用饭盒提锅冰箱储物盒",
+    "image_url": "http://t00img.yangkeduo.com/goods/images/2018-07-30/a84677f4b9ee229f52574c42b0eab085.jpeg",
+    "thumb_url": "http://t00img.yangkeduo.com/t09img/images/2018-07-18/6363261406ec706e6c89bc78464db10f.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/t03img/images/2018-07-18/d6fbecc7d4af6a60417bbd8cb31686f0.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 850,
+      "customer_num": 2
+    },
+    "cnt": 37365,
+    "market_price": 4800,
+    "normal_price": 1500,
+    "country": "",
+    "allowed_region": "[3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+    "region_limit": 1,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 0,
+    "sales_tip": "已拼3.7万件",
+    "bubble": [{"avatar":"http://t21img.yangkeduo.com/a/9dde5e26c581ff4d8261fd225bd60773cef578ad-1509957081?imageMogr2/thumbnail/100x","group_order_id":"496102907249432432"},{"avatar":"http://t21img.yangkeduo.com/a/ca228295a0abaaeb56097749fd7e99c70bfeaadd-1526627389?imageMogr2/thumbnail/100x","group_order_id":"496208962847572586"}]
+  }, {
+    "goods_id": 322820021,
+    "goods_name": "七天淡斑正品美白祛斑霜黄褐斑色斑日晒斑遗传斑雀斑老年斑30g",
+    "short_name": "七天淡斑正品美白祛斑霜黄褐斑色斑日晒斑遗传斑雀斑老年斑30g",
+    "image_url": "http://t00img.yangkeduo.com/t04img/images/2018-05-30/a8c482c6f55e5d0ce5c0e34bf22529a2.jpeg",
+    "thumb_url": "http://t00img.yangkeduo.com/t09img/images/2018-06-22/917169bfcbb89aa33549df5c2c26c797.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/t09img/images/2018-06-22/e98835ed45aa217e964d8be842f4d9c9.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 3500,
+      "customer_num": 2
+    },
+    "cnt": 133441,
+    "market_price": 29900,
+    "normal_price": 4900,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+    "region_limit": 0,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 1,
+    "sales_tip": "已拼13.3万件",
+    "bubble": [{"avatar":"http://t20img.yangkeduo.com/a/6ef6d829dcafe3f36d2419a26f22e89eb0431ba9-1532516500?imageMogr2/thumbnail/100x","group_order_id":"491103584891592821"},{"avatar":"http://t20img.yangkeduo.com/a/78d9ba74dfcda984266aeb6596c6058e181b4108-1531888788?imageMogr2/thumbnail/100x","group_order_id":"496436938998772255"}]
+  }, {
+    "goods_id": 2608685329,
+    "goods_name": "奋祺秋装女2018新款时尚显瘦两件套时髦宽松减龄条纹遮肉洋气套装",
+    "short_name": "奋祺秋装女2018新款时尚显瘦两件套时髦宽松减龄条纹遮肉洋气套装",
+    "image_url": "http://t00img.yangkeduo.com/goods/images/2018-08-20/026f2d4a921eb2b7c1a9bf1aac03573e.jpeg",
+    "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-19/b743234be0727fdf7f7418bc1cd9e057.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-19/5cf155f3582ee23a156296cded82c7d4.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 4890,
+      "customer_num": 2
+    },
+    "cnt": 3792,
+    "market_price": 51800,
+    "normal_price": 5990,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 30, 31, 32]",
+    "region_limit": 1,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 0,
+    "sales_tip": "已拼3792件",
+    "bubble": [{"avatar":"http://t20img.yangkeduo.com/a/9510456ca0e49a705670c0d05e8b19f159f34358-1530699631?imageMogr2/thumbnail/100x","group_order_id":"496260974838593405"},{"avatar":"http://t20img.yangkeduo.com/a/42e0667aae09d8a78420760fac9922383634b6b5-1529994708?imageMogr2/thumbnail/100x","group_order_id":"496481479885713357"}]
+  }, {
+    "goods_id": 2211400256,
+    "goods_name": "【29.9元抢2000件，抢完恢复34.9元】【薇蓝昕】95棉2018女新款高腰花苞哈伦宽松萝卜裤休闲长裤送腰带",
+    "short_name": "【薇蓝昕】95棉2018女新款高腰花苞哈伦宽松萝卜裤休闲长裤送腰带",
+    "image_url": "http://t00img.yangkeduo.com/goods/images/2018-08-01/d21a05137d05c3feb524f436c9b1b169.jpeg",
+    "thumb_url": "http://t06img.yangkeduo.com/images/2018-07-15/a321b057fdb4c7ff54c8a15000414e31.jpeg",
+    "hd_thumb_url": "http://t17img.yangkeduo.com/images/2018-07-15/cf9b8d955b96c36c5feb3682d1ca722d.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 2990,
+      "customer_num": 2
+    },
+    "cnt": 10982,
+    "market_price": 19600,
+    "normal_price": 3690,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+    "region_limit": 0,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 0,
+    "sales_tip": "已拼1万件",
+    "bubble": [{"avatar":"http://t20img.yangkeduo.com/a/53ea63cc970755565fc03c76db896dcab169016a-1532690223?imageMogr2/thumbnail/100x","group_order_id":"496019106366591684"},{"avatar":"http://t20img.yangkeduo.com/a/a2819ccaad5f9fe343e0fc25cdf87ba439714eb6-1534972797?imageMogr2/thumbnail/100x","group_order_id":"496009468642033272"}]
+  }, {
+    "goods_id": 2074139,
+    "goods_name": "梯子家用折叠梯加厚多功能人字梯伸缩楼梯二三四五六步室内扶梯",
+    "short_name": "梯子家用折叠梯加厚多功能人字梯伸缩楼梯二三四五六步室内扶梯",
+    "image_url": "http://omsproductionimg.yangkeduo.com/images/unknown/0/B4aufa1VT0RzFrRBKylbNm213Fgrx55v.jpg",
+    "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-19/342d50668b1996a1dc82d451f3170a0b.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-19/0c49a1412d7d71667d84b97345f8c3d1.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 3590,
+      "customer_num": 2
+    },
+    "cnt": 4953,
+    "market_price": 13800,
+    "normal_price": 4200,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 30, 31, 32]",
+    "region_limit": 1,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 0,
+    "sales_tip": "已拼4953件",
+    "bubble": [{"avatar":"http://t20img.yangkeduo.com/a/8910f74366998d530e48773de0ec5ee18dd36eb7-1529071813?imageMogr2/thumbnail/100x","group_order_id":"495118850192390404"},{"avatar":"http://t21img.yangkeduo.com/a/093ea5cc7d61abae799fa05b2ff8d2aae3ab2282-1510545146?imageMogr2/thumbnail/100x","group_order_id":"495149665219732843"}]
+  }, {
+    "goods_id": 1053832964,
+    "goods_name": "【旗笙】【5条装纯棉】女士内裤女大码中腰内裤女收腹三角女内裤",
+    "short_name": "【旗笙】【5条装纯棉】女士内裤女大码中腰内裤女收腹三角女内裤",
+    "image_url": "http://t00img.yangkeduo.com/t07img/images/2018-06-03/775a8eae37e99ac892bc86d46f6d3b8a.jpeg",
+    "thumb_url": "http://t00img.yangkeduo.com/t07img/images/2018-06-08/6af50f61f488bf990fe3df9b5e530a63.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/t11img/images/2018-06-08/22882b6698dec9a5a260bc3ab6972ab1.jpeg",
+    "is_app": 0,
+    "event_type": 2,
+    "group": {
+      "price": 1680,
+      "customer_num": 2
+    },
+    "cnt": 285062,
+    "market_price": 2500,
+    "normal_price": 1980,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+    "region_limit": 1,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 0,
+    "sales_tip": "已拼28.5万件",
+    "bubble": [{"avatar":"http://t20img.yangkeduo.com/a/dc11f18d5593069b811246740a9935abd57cc78f-1535062716?imageMogr2/thumbnail/100x","group_order_id":"496574509548250007"},{"avatar":"http://t20img.yangkeduo.com/a/373fe17decd0a317734d92db81749b966f3ac566-1533434034?imageMogr2/thumbnail/100x","group_order_id":"496324096492670427"}]
+  }, {
+    "goods_id": 86737634,
+    "goods_name": "【8.9元抢3000件，抢完恢复9.9元】【买二送一买三送二】大容量冰箱收纳盒食品冷冻保鲜盒密封储物盒",
+    "short_name": "【买二送一买三送二】大容量冰箱收纳盒食品冷冻保鲜盒密封储物盒",
+    "image_url": "http://t00img.yangkeduo.com/t01img/images/2018-05-24/3a7a13566b12f3089fd7a19c2d0b7546.jpeg",
+    "thumb_url": "http://t11img.yangkeduo.com/images/2018-05-24/30e507b27de234c10bf614ffabacd839.jpeg",
+    "hd_thumb_url": "http://t03img.yangkeduo.com/images/2018-05-24/949494b03105800a0a3abe3a97314720.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 890,
+      "customer_num": 2
+    },
+    "cnt": 70901,
+    "market_price": 5600,
+    "normal_price": 1090,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 30, 31, 32]",
+    "region_limit": 1,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 1,
+    "sales_tip": "已拼7万件",
+    "bubble": [{"avatar":"http://t20img.yangkeduo.com/a/c17d9dbd1bf9ed0cdb7dcc6e641921acf047fd15-1534679620?imageMogr2/thumbnail/100x","group_order_id":"491501664318631859"},{"avatar":"http://t20img.yangkeduo.com/a/31ee52c235e87c115d24aa9e6bd1251bdaaf8fff-1532472920?imageMogr2/thumbnail/100x","group_order_id":"496078276199131249"}]
+  }, {
+    "goods_id": 2541420902,
+    "goods_name": "中小学生书包防水减负儿童书包男女初中大容量书包",
+    "short_name": "中小学生书包防水减负儿童书包男女初中大容量书包",
+    "image_url": "http://t00img.yangkeduo.com/goods/images/2018-08-21/1b6ce095932600b6eed5f4fe320d69fd.jpeg",
+    "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-08/3a68440ca864024c609cb39e7b4f9ace.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-08/69df316c6feda5a339c199695c377028.jpeg",
+    "is_app": 0,
+    "event_type": 12,
+    "group": {
+      "price": 2790,
+      "customer_num": 2
+    },
+    "cnt": 6403,
+    "market_price": 12800,
+    "normal_price": 3090,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 22, 23, 24, 25, 26, 27, 30, 31, 32]",
+    "region_limit": 1,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 0,
+    "sales_tip": "已拼6403件",
+    "bubble": [{"avatar":"http://t20img.yangkeduo.com/a/0bacbdfa608891f7743279fe40495535678ba421-1528986655?imageMogr2/thumbnail/100x","group_order_id":"495055459513153592"},{"avatar":"http://t20img.yangkeduo.com/a/eee3fcd5a4142f6348795e6731e784348cf4fe54-1533870418?imageMogr2/thumbnail/100x","group_order_id":"495056438948850408"}]
+  }, {
+    "goods_id": 2624964143,
+    "goods_name": "【21.9元限时抢，抢完恢复27.9元】芙久纯棉大码长袖t恤女2018秋季新款韩版宽松上衣小衫打底衫女装",
+    "short_name": "芙久纯棉大码长袖t恤女2018秋季新款韩版宽松上衣小衫打底衫女装",
+    "image_url": "http://t00img.yangkeduo.com/goods/images/2018-08-22/7d2baabe22856fc505fc2f004870fd1c.jpeg",
+    "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-16/4c5b6209b5ba08dfa28ed844e994fe4a.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-16/b42da1fb7ffaa42a4d0722ebdb7e078c.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 2190,
+      "customer_num": 2
+    },
+    "cnt": 2662,
+    "market_price": 11100,
+    "normal_price": 2990,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 32]",
+    "region_limit": 1,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 1,
+    "sales_tip": "已拼2662件",
+    "bubble": [{"avatar":"http://t20img.yangkeduo.com/a/7bb7677358604fcc75c86f37a2a567cfa1107684-1534773680?imageMogr2/thumbnail/100x","group_order_id":"496405539390250450"},{"avatar":"http://t20img.yangkeduo.com/a/f44b185c296fd8ef9302a2c70f2033c4133c85df-1532393091?imageMogr2/thumbnail/100x","group_order_id":"496197250253990604"}]
+  }, {
+    "goods_id": 2411736938,
+    "goods_name": "美俏姿态 100%纯棉 多色 大码长袖打底t恤女2018新款宽松体恤上衣",
+    "short_name": "美俏姿态 100%纯棉 多色 大码长袖打底t恤女2018新款宽松体恤上衣",
+    "image_url": "http://t00img.yangkeduo.com/goods/images/2018-08-09/ac1862d515405180180f24a48fbd06d8.jpeg",
+    "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-19/cc9e1061b971e0417f796db40b0d7035.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-19/c13870cb69a0ec0a65432c5b7a2bf84a.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 2176,
+      "customer_num": 2
+    },
+    "cnt": 58641,
+    "market_price": 39800,
+    "normal_price": 7900,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 32]",
+    "region_limit": 1,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 0,
+    "sales_tip": "已拼5.8万件",
+    "bubble": [{"avatar":"http://pinduoduoimg.yangkeduo.com/avatar/default/2.png","group_order_id":"496070786745570523"},{"avatar":"http://t20img.yangkeduo.com/a/b7ebe716c0159d9f4dc707cf5c0cfbcc40d7acff-1528477365?imageMogr2/thumbnail/100x","group_order_id":"496124823798892248"}]
+  }, {
+    "goods_id": 1294961424,
+    "goods_name": "沥水碗架厨房用品置物架碗柜储物架碗碟架放碗筷收纳盒餐具架刀架",
+    "short_name": "沥水碗架厨房用品置物架碗柜储物架碗碟架放碗筷收纳盒餐具架刀架",
+    "image_url": "http://t00img.yangkeduo.com/goods/images/2018-08-05/1d2b49b3132078a94acbc04f67f7d5f0.jpeg",
+    "thumb_url": "http://t00img.yangkeduo.com/t02img/images/2018-06-06/c64d3088d876f7ea3ef5a9e367fe396e.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/t09img/images/2018-06-06/b4bd84f7ad340aa5f7b65f19f5264cf1.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 1190,
+      "customer_num": 2
+    },
+    "cnt": 39399,
+    "market_price": 9990,
+    "normal_price": 2690,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+    "region_limit": 0,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 0,
+    "sales_tip": "已拼3.9万件",
+    "bubble": []
+  }, {
+    "goods_id": 1701501,
+    "goods_name": "大颗粒新货原味手剥巴西松子连罐1000g/500g/200g多规格坚果特产",
+    "short_name": "大颗粒新货原味手剥巴西松子连罐1000g/500g/200g多规格坚果特产",
+    "image_url": "http://t00img.yangkeduo.com/goods/images/2018-08-23/772997051d05bf07d2717cf639b2d52d.jpeg",
+    "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-07-28/fa00ff2602dd5b000ef65d30032b6650.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-07-28/73d8a89d1e298ae7b4a194d2c21f542c.jpeg",
+    "is_app": 0,
+    "event_type": 12,
+    "group": {
+      "price": 2390,
+      "customer_num": 2
+    },
+    "cnt": 171799,
+    "market_price": 19900,
+    "normal_price": 2500,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+    "region_limit": 0,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 0,
+    "sales_tip": "已拼17.1万件",
+    "bubble": [{"avatar":"http://t20img.yangkeduo.com/a/657e24435a0818c2e20812c99bac32c8a7c75104-1529742670?imageMogr2/thumbnail/100x","group_order_id":"496257543373693277"},{"avatar":"http://t20img.yangkeduo.com/a/a0723b63e796db373370f3945a16fea1a94cf7e0-1527591711?imageMogr2/thumbnail/100x","group_order_id":"496396110070530048"}]
+  }, {
+    "goods_id": 2566316707,
+    "goods_name": "【12.9元限时抢，抢完恢复19.8元】【俞兆林】秋季新款百搭哈伦裤女宽松小脚西裤显瘦松紧腰休闲女裤",
+    "short_name": "【俞兆林】秋季新款百搭哈伦裤女宽松小脚西裤显瘦松紧腰休闲女裤",
+    "image_url": "http://t00img.yangkeduo.com/goods/images/2018-08-09/e51494715e18a0a558bdecf741060a49.jpeg",
+    "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-13/a806e8436223e4744f18904c6beb36e2.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-08-13/cfd37e905b2bf471e8d5c683df7b276a.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 1290,
+      "customer_num": 2
+    },
+    "cnt": 49218,
+    "market_price": 9900,
+    "normal_price": 2090,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+    "region_limit": 0,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 0,
+    "sales_tip": "已拼4.9万件",
+    "bubble": [{"avatar":"http://t20img.yangkeduo.com/a/9df21fe44a6d5c91687f58bacbc44144ce7f08e8-1529557892?imageMogr2/thumbnail/100x","group_order_id":"496222767350911363"},{"avatar":"http://t20img.yangkeduo.com/a/7edf1c58ee5ccbca8e9ae0990d2c7cba2288a9ba-1531526023?imageMogr2/thumbnail/100x","group_order_id":"496539898676413184"}]
+  }, {
+    "goods_id": 659359942,
+    "goods_name": "【防油污】防油防潮厨房贴你和TA厨房贴墙纸铝箔纸自粘壁纸耐高温",
+    "short_name": "【防油污】防油防潮厨房贴你和TA厨房贴墙纸铝箔纸自粘壁纸耐高温",
+    "image_url": "http://t00img.yangkeduo.com/goods/images/2018-08-22/ae0aef0f366813879bcf811610d40005.jpeg",
+    "thumb_url": "http://t00img.yangkeduo.com/t11img/images/2018-06-14/97dc2e90577f3d99b74e1283bfd61da3.jpeg",
+    "hd_thumb_url": "http://t00img.yangkeduo.com/t04img/images/2018-06-14/c4275e1311450df9d34df69ecc2731a3.jpeg",
+    "is_app": 0,
+    "event_type": 0,
+    "group": {
+      "price": 666,
+      "customer_num": 2
+    },
+    "cnt": 94526,
+    "market_price": 28800,
+    "normal_price": 10800,
+    "country": "",
+    "allowed_region": "[2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]",
+    "region_limit": 0,
+    "p_rec": {
+      "t": "default",
+      "g": "",
+      "bk": "",
+      "m": "default"
+    },
+    "is_assist": 0,
+    "assist_count": 0,
+    "has_mall_coupon": 0,
+    "sales_tip": "已拼9.4万件",
+    "bubble": [{"avatar":"http://t21img.yangkeduo.com/a/9cc487b139e07a003e1bc7fb2271054656385cf6-1507703963?imageMogr2/thumbnail/100x","group_order_id":"496608344474610936"}]
+  }],
+  "total_size": 20
+}
